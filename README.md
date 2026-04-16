@@ -1,1 +1,1 @@
-# Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle---Diego-Perez
+# Practica-Tema 4 Instalacion y configuracion de Moodle Diego-Perez
