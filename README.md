@@ -6,21 +6,21 @@ Para configurar tu usuario, ve al «Área personal», haz clic sobre tu foto de 
 
 ![Entrar en ajustes](Entrar-en-ajustes.png)
 
-Aqui ens sortira informacio del nostre perfil, pero per poder congigura-lo tindrem que anar hon posa "Editar perfil".
+Aquí nos saldrá información de nuestro perfil, pero para poder configurarlo tendremos que ir a donde pone "Editar perfil".
 
 ![Editar el perfil](Editar-perfil.png)
 
-En aquest lloc podrem configurar algunes coses com son: el correu electronic, el nom que els surt als demas usuaris, contrasenyes... etc.
+En este lugar podremos configurar algunas cosas como son: el correo electrónico, el nombre que les sale a los demás usuarios, contraseñas... etc.
 
-![
+![Muestra de perfil](Muestra-perfil.png)
 
-2. Configuració del lloc:
-2.1 Configuració de la ubicació:
-Per poder configurar l'ubicació tendrem que anar primerament desde el menu a "Administració del lloc"
+2. Configuración del sitio:
+2.1 Configuración de la ubicación:
+Para poder configurar la ubicación tendremos que ir primeramente desde el menú a "Administración del sitio"
 
-foto aqui
+![Entrar en ubicación](Entrar-en-ubicación.png)
 
-Després tindrem que buscar l'opció "Ubicació" i entrar allí.
+Después tendremos que buscar la opción 'Ubicación' y entrar allí.
 
 foto aqui
 
