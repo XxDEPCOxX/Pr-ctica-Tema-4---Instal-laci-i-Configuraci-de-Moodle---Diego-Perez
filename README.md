@@ -16,38 +16,20 @@ En este lugar podremos configurar algunas cosas como son: el correo electrónico
 
 2. Configuración del sitio:
 2.1 Configuración de la ubicación:
-Para poder configurar la ubicación tendremos que ir primeramente desde el menú a "Administración del sitio"
+Para poder configurar la ubicación tendremos que ir primeramente desde el menú a "Administración del sitio" y a "Ubicación".
 
 ![Entrar en ubicación](Entrar-en-ubicación.png)
-
-Después tendremos que buscar la opción 'Ubicación' y entrar allí.
-
-foto aqui
 
 Y finalment, aqui tindrem que possar a nostra ubicacio per exepmle yo eh posat "Europa/Madrid" perque es el llloc que tinc mes cerca y tot lo demes lo eh posat perque l'usuaris el puguin configurar.
 
 foto aqui
 
 2.2 Configuració de l'idioma:
-Per poder configurar l'idioma tendrem que anar primerament desde el menu a "Administració del lloc"
+Para configurar el idioma nos tendremos que ir a preferencias > Idioma preferido y ahí seleccionar el idioma.
 
-foto aqui
+![Entrar en idioma](Cambiar-el-idioma.png)
 
-Després tindrem que buscar l'opció "idioma" i entrem hon posa "Paquets d'idiome".
-
-foto aqui
-
-Aqui podrem instalar els idiomes qu vulguem utilizar, per exemple yo eh instalat el angles.
-
-foto aqui
-
-Despres tindrem que anar enrere y donarli a l'opció de "ajustes d'idioma"
-
-foto aqui
-
-Y finalment aqui podrem cambiar l'idioma hon possa "idioma per defecte"
-
-foto aqui
+En caso de querer cambiar el idioma y que no esté disponible, simplemente ve a Administración del sitio > Paquetes de idioma y seleccionar el tuyo.
 
 3. Creació d’un curs
 En aquest apartat explicarem pas a pas com crear el teu primer curs a Moodle utilitzant les opcions d’administrador.
