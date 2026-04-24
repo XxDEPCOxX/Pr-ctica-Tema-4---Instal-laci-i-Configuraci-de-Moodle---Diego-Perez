@@ -15,61 +15,31 @@ En este lugar podremos configurar algunas cosas como son: el correo electrónico
 ![Muestra de perfil](Muestra-perfil.png)
 
 2. Configuración del sitio:
+![""](Seguridad-ajustes.png)
 2.1 Configuración de la ubicación:
 Para poder configurar la ubicación tendremos que ir primeramente desde el menú a "Administración del sitio" y a "Ubicación".
 
 ![Entrar en ubicación](Entrar-en-ubicación.png)
 
-Y finalment, aqui tindrem que possar a nostra ubicacio per exepmle yo eh posat "Europa/Madrid" perque es el llloc que tinc mes cerca y tot lo demes lo eh posat perque l'usuaris el puguin configurar.
+Finalmente, configuramos los ajustes y todo lo relacionado.
+![""](Ajustes-ubicación.png)
 
-foto aqui
-
-2.2 Configuració de l'idioma:
+2.2 Configuración del idioma:
 Para configurar el idioma nos tendremos que ir a preferencias > Idioma preferido y ahí seleccionar el idioma.
 
 ![Entrar en idioma](Cambiar-el-idioma.png)
 
 En caso de querer cambiar el idioma y que no esté disponible, simplemente ve a Administración del sitio > Paquetes de idioma y seleccionar el tuyo.
 
-3. Creació d’un curs
-En aquest apartat explicarem pas a pas com crear el teu primer curs a Moodle utilitzant les opcions d’administrador.
+# Crear un curso
 
-![""](
+Para hacer este paso, iremos a Mis Cursos > Crear curso.
+![""](Entrar-crear-curso.png)
 
-3.1 Accedir a la pàgina de cursos
-Primerament, anirem al menú superior i seleccionarem “Mis cursos”.
-Aquí apareixerà una pantalla amb un missatge de benvinguda i l’opció “Crear su primer curso”.
+Después de esto simplemente rellenamos los campos obligatorios y opcionales si así lo deseamos.
 
-foto aqui
+![""](Ajustes-crear-curso.png)
 
-A continuació, premem el botó “Crear curso”.
-
-foto aqui
-
-3.2 Formulari de creació del curs
-Un cop dins de “Crear un nuevo curso”, veurem el formulari amb els paràmetres generals del curs.
-
-foto aqui
-
-Els camps principals que hem d’omplir són:
-
-• Nom complet del curs
-Aquest és el títol que veuran els estudiants.
-Exemple: “Introducción a Moodle”.
-
-• Nom curt del curs
-Identificador breu del curs.
-Exemple: “Moodle-Intro”.
-
-• Categoria del curs
-Seleccionem la categoria on volem que estigui ubicat el curs, per exemple “Categoría 1”.
-
-• Visibilitat del curs
-Podem triar entre:
-
-Mostrar → el curs és visible per als estudiants.
-Ocultar → el curs queda amagat mentre el preparem.
-3.3 Guardar el curs
-Quan haguem completat tots els camps, baixem fins al final de la pàgina i fem clic a “Guardar cambios”.
+Cuando hayamos acabado, le damos click a Guardar Cambios.
 
 A partir d’aquí, Moodle ens portarà automàticament a la pàgina principal del curs, on podrem començar a afegir seccions, activitats i recursos.
