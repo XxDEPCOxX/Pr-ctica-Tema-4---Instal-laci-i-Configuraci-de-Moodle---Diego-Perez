@@ -34,6 +34,8 @@ En caso de querer cambiar el idioma y que no esté disponible, simplemente ve a 
 3. Creació d’un curs
 En aquest apartat explicarem pas a pas com crear el teu primer curs a Moodle utilitzant les opcions d’administrador.
 
+![""](
+
 3.1 Accedir a la pàgina de cursos
 Primerament, anirem al menú superior i seleccionarem “Mis cursos”.
 Aquí apareixerà una pantalla amb un missatge de benvinguda i l’opció “Crear su primer curso”.
