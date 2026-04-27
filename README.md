@@ -42,4 +42,4 @@ Después de esto simplemente rellenamos los campos obligatorios y opcionales si 
 
 Cuando hayamos acabado, le damos click a Guardar Cambios.
 
-A partir d’aquí, Moodle ens portarà automàticament a la pàgina principal del curs, on podrem començar a afegir seccions, activitats i recursos.
+A partir de aquí todo lo que haremos será configurar y personalizar nuestro portal de Moodle
