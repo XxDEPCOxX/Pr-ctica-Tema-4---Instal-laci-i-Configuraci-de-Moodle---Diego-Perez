@@ -55,3 +55,4 @@ Para matricular a los usuarios lo que debemos hacer es irnos a cualquiera de los
 ![""](Añadir-alumnos.png)
 En mi caso, añadí a todos los estudiantes y al administrador lo hice profesor. que se cambia haciendole click y cambiando su rol a "Profesor".
 
+![""](cambiar-rol.png)
