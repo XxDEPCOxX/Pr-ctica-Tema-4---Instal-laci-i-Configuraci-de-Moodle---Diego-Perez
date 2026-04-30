@@ -68,3 +68,11 @@ Para este paso tendremos que ir a Administración del sitio > Extensiones > Aña
 Aqui añadiremos un Plugin de tipo Tema (que podemos descargar tanto desde la página oficial de Moodle como de otras plataformas) en archivo .zip .
 
 ![""](añadir-tema.png)
+
+Despues de acpetar nos darán unas cuantas opciones para modificar a gusto (si no entiendes simplemente continua hasta volver a la pagina de Moodle).
+
+![""](opciones-extension.png)
+![""](aceptar-final.png)
+Ahora toca irse a Administración del sitio > Apariencia > Temas y seleccionar el que acabamos de descargar. Quedaría de esta manera en mi caso:
+
+![""](tema-instalado.png)
