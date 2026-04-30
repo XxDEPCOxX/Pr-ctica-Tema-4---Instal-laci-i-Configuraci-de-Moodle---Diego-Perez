@@ -52,7 +52,15 @@ Después los subimos y le daremos a confirmar dos veces teniendo que ir hasta ab
 
 # Matricular usuarios en un curso
 Para matricular a los usuarios lo que debemos hacer es irnos a cualquiera de los cursos creados > Participantes > Matricular Usuarios. Ahí podemos añadir cuantos usuarios queramos nosotros.
+
 ![""](Añadir-alumnos.png)
+
 En mi caso, añadí a todos los estudiantes y al administrador lo hice profesor. que se cambia haciendole click y cambiando su rol a "Profesor".
 
 ![""](cambiar-rol.png)
+
+# Añadir extensiones/plugins
+
+Para este paso tendremos que ir a Administración del sitio > Extensiones > Añadir una extensión.
+
+![""](entrar en extensiones.png)
