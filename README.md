@@ -47,3 +47,8 @@ A partir de aquí todo lo que haremos será configurar y personalizar nuestro po
 # Añadir usuarios por csv
 Para subir usuarios tendremos que craer un archivo en formato *.csv*, poner "username,firstname,lastname,email,password" para aclarar usuario, nombre, apellido, email y contraseña de usuario. Quedaría algo así:
 ![""](alumnos-csv.png)
+
+Después los subimos y le daremos a confirmar dos veces teniendo que ir hasta abajo del todo.
+
+# Matricular usuarios en un curso
+Para matricular a los usuarios
