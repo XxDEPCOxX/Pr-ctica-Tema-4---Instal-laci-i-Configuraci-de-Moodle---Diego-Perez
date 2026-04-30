@@ -42,4 +42,8 @@ Después de esto simplemente rellenamos los campos obligatorios y opcionales si 
 
 Cuando hayamos acabado, le damos click a Guardar Cambios.
 
-A partir de aquí todo lo que haremos será configurar y personalizar nuestro portal de Moodle
+A partir de aquí todo lo que haremos será configurar y personalizar nuestro portal de Moodle.
+
+# Añadir usuarios por csv
+Para subir usuarios tendremos que craer un archivo en formato *.csv*, poner "username,firstname,lastname,email,password" para aclarar usuario, nombre, apellido, email y contraseña de usuario. Quedaría algo así:
+![""](alumnos-csv.png)
