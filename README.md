@@ -63,4 +63,8 @@ En mi caso, añadí a todos los estudiantes y al administrador lo hice profesor.
 
 Para este paso tendremos que ir a Administración del sitio > Extensiones > Añadir una extensión.
 
-![""](entrar en extensiones.png)
+![""](entrar-en-extensiones.png)
+
+Aqui añadiremos un Plugin de tipo Tema (que podemos descargar tanto desde la página oficial de Moodle como de otras plataformas) en archivo .zip .
+
+![""](añadir-tema.png)
