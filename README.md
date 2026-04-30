@@ -51,4 +51,7 @@ Para subir usuarios tendremos que craer un archivo en formato *.csv*, poner "use
 Después los subimos y le daremos a confirmar dos veces teniendo que ir hasta abajo del todo.
 
 # Matricular usuarios en un curso
-Para matricular a los usuarios
+Para matricular a los usuarios lo que debemos hacer es irnos a cualquiera de los cursos creados > Participantes > Matricular Usuarios. Ahí podemos añadir cuantos usuarios queramos nosotros.
+![""](Añadir-alumnos.png)
+En mi caso, añadí a todos los estudiantes y al administrador lo hice profesor. que se cambia haciendole click y cambiando su rol a "Profesor".
+
