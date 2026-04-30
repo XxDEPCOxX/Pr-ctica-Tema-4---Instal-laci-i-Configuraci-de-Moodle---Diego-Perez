@@ -76,3 +76,14 @@ Despues de acpetar nos darán unas cuantas opciones para modificar a gusto (si n
 Ahora toca irse a Administración del sitio > Apariencia > Temas y seleccionar el que acabamos de descargar. Quedaría de esta manera en mi caso:
 
 ![""](tema-instalado.png)
+
+# Añadir un logo
+Para añadir un logo iremos a Logotipo en el apartado de Apariencia.
+
+![""](entrar-logotipo.png)
+
+Dentro de logotipo, seleccionamos el que nosotros queramos y que hayamos descargado.
+
+![""](poner-logotipo.png)
+
+Y listo, con esto ya tendríamos lo necesario.
