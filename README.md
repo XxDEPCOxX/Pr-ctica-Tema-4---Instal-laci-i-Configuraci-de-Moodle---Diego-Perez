@@ -87,3 +87,16 @@ Dentro de logotipo, seleccionamos el que nosotros queramos y que hayamos descarg
 ![""](poner-logotipo.png)
 
 Y listo, con esto ya tendríamos lo necesario.
+
+# Creación de contenido y actividades.
+Este paso es muy sencillo, nos iremos a el curso A, seleccionaremos una de las secciones para subir nuestra tarea, le damos al "+" y seleccionamos tarea:
+
+![""](como-subir-tarea.png)
+
+Ahora seleccionamos la opción tarea:
+
+![""](seleccionar-tarea.png)
+
+Y ahora le pones un nombre, descripcion, tipo de entrega (archivo o texto) y fecha limite que en este caso yo no le pondré, quedaría así:
+
+![""](config-tarea.png)
